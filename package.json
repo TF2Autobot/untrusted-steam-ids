@@ -1,0 +1,30 @@
+{
+  "name": "untrusted-steam-ids",
+  "version": "1.0.0",
+  "description": "List of untrusted Steam IDs",
+  "main": "./index.js",
+  "type": "module",
+  "scripts": {
+    "mini": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TF2Autobot/untrusted-steam-ids.git"
+  },
+  "keywords": [
+    "steam",
+    "untrusted",
+    "banned",
+    "tf2"
+  ],
+  "author": "TF2Autobot/IdiNium",
+  "moderators": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TF2Autobot/untrusted-steam-ids/issues"
+  },
+  "homepage": "https://github.com/TF2Autobot/untrusted-steam-ids#readme",
+  "dependencies": {
+    "jsonminify": "^0.4.2"
+  }
+}
