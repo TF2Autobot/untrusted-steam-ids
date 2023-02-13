@@ -60,11 +60,6 @@
       "reason": "Fake order",
       "source": "IdiNium",
       "time": 1669732200
-    },
-    "76561198260326582": {
-      "reason": "Impersonating Quicksell.store bot",
-      "source": "IdiNium",
-      "time": 1676241736
     }
   }
 }
