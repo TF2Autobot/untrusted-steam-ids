@@ -75,6 +75,11 @@
       "reason": "Alt of 76561199468045911",
       "source": "Community",
       "time": 1688107672
+    },
+    "76561199523234411": {
+      "reason": "Attempted price manipulation - set high buy order price and let the custom pricer to follow. https://prnt.sc/7nsUSlZK9H4q | https://prnt.sc/xRf4JLsiTqZF | https://prnt.sc/MBAHJU1dkJr3",
+      "source": "Community",
+      "time": 1690442262
     }
   }
 }
