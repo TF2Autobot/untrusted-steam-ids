@@ -1,5 +1,5 @@
 {
-  "last_update": 1654713535,
+  "last_update": 1691493916,
   "steamids": {
     "76561198110578342": {
       "reason": "Popular TF2 troller and multiple bad reputations and reports",
@@ -90,6 +90,11 @@
       "reason": "Alt of 76561199523234411",
       "source": "Community",
       "time": 1690442262
+    },
+    "76561198333977822": {
+      "reason": "Suspected scammer alt",
+      "source": "Community",
+      "time": 1691493916
     }
   }
 }
