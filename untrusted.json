@@ -95,6 +95,46 @@
       "reason": "Suspected scammer alt",
       "source": "Community",
       "time": 1691493916
+    },
+    "76561199186204895": {
+      "reason": "Suspected manipulator",
+      "source": "Gladiator.tf community",
+      "time": 1706105078
+    },
+    "76561199189717419": {
+      "reason": "Alt of 76561199186204895",
+      "source": "Gladiator.tf community",
+      "time": 1706105078
+    },
+    "76561199189458038": {
+      "reason": "Alt of 76561199186204895",
+      "source": "Gladiator.tf community",
+      "time": 1706105078
+    },
+    "76561199192673632": {
+      "reason": "Alt of 76561199186204895",
+      "source": "Gladiator.tf community",
+      "time": 1706105078
+    },
+    "76561199194742080": {
+      "reason": "Alt of 76561199186204895",
+      "source": "Gladiator.tf community",
+      "time": 1706105078
+    },
+    "76561199202110112": {
+      "reason": "Alt of 76561199186204895",
+      "source": "Gladiator.tf community",
+      "time": 1706105078
+    },
+    "76561198126948136": {
+      "reason": "Impersonating bots and scammed some people",
+      "source": "Gladiator.tf community",
+      "time": 1706105078
+    },
+    "76561199417666839": {
+      "reason": "Impersonating bots and scammed some people",
+      "source": "Gladiator.tf community",
+      "time": 1706105078
     }
   }
 }
